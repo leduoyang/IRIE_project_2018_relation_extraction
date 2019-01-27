@@ -2,9 +2,9 @@
 Relation Extraction with The Wall Street Journal
 
 ## Prerequisite
-Gensim
-Keras
-sklearn
+* Gensim
+* Keras
+* sklearn
 
 ## workflow
 * Transfer documents into feature vectors by 3-billion words Google News pre-trained word2vec model
