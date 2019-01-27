@@ -10,6 +10,14 @@ Keras
 * Train a Bidirectional LSTM following DNN model to predict Node Role/Label
 * Use the output of Bidirectional LSTM layer as input to train a DNN model for edge label prediction
 
+## model summary
+### node role prediction model
+![alt text](https://github.com/leduoyang/IRIE_project_2018_relation_extraction/blob/master/result/model_node.png)
+### edge relation prediction model
+![alt text](https://github.com/leduoyang/IRIE_project_2018_relation_extraction/blob/master/result/model_edge.png)
+
+## result
+![alt text](https://github.com/leduoyang/IRIE_project_2018_relation_extraction/blob/master/result/eval.png)
 
 
 source:
